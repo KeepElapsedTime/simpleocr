@@ -1,0 +1,2 @@
+# simpleocr
+Pytesseract+OpenCV
