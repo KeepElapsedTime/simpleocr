@@ -1,4 +1,6 @@
-# Simple ORC
+# Build Simple OCR
+
+###### tags: `public`,`build`,`ocr`,`Opencv`
 
 We use Pytesseract + OpenCV to build a simple ocr system on colab
 
@@ -8,6 +10,13 @@ This is for colab's simple ocr sample,please copy it or put it in your Google Dr
 
 
 ## How to use?
+
+---
+Clone from my github
+
+```
+git clone https://github.com/tingruikp0925/simpleocr.git
+```
 
 After you upload the picture for this sample
 You can Read/Resize/Flip/Rotate or cvtColor via use cv2 package.
@@ -25,3 +34,11 @@ CvtGray: cv2.cvtColor(image, colorspace_num=7)
 ```
 
 ![](https://github.com/tingruikp0925/simpleocr/blob/main/pic/pic01.png)
+
+
+---
+Source Code:https://github.com/tingruikp0925/simpleocr
+
+
+---
+![](https://hackmd.io/_uploads/S1I5rEF42.png)
