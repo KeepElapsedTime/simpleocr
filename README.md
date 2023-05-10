@@ -22,4 +22,4 @@ Flip：cv2.flip(image, flipCode)
 Rotate： M = cv2.getRotationMatrix2D(rotate_center, rotate_angle, ratio) rot_img = cv2.warpAffine(image, M, size) 
 cvtgray: cv2.cvtColor(image, colorspace_num=7)
 """
-
+https://github.com/tingruikp0925/simpleocr/blob/main/pic/pic01.png
