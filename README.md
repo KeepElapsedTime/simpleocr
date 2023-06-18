@@ -1,5 +1,8 @@
 # Build Simple OCR
 
+[![hackmd-github-sync-badge](https://hackmd.io/j7a_HH7-THS7wdHdXDCiIw/badge)](https://hackmd.io/j7a_HH7-THS7wdHdXDCiIw)
+
+
 ###### tags: `public`,`build`,`ocr`,`Opencv`
 
 We use Pytesseract + OpenCV to build a simple ocr system on colab
